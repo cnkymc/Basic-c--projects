@@ -1,0 +1,20 @@
+C:\Users\erdem\source\repos\HesapMakinesiErdem\bin\Debug\HesapMakinesiErdem.exe.config
+C:\Users\erdem\source\repos\HesapMakinesiErdem\bin\Debug\HesapMakinesiErdem.exe
+C:\Users\erdem\source\repos\HesapMakinesiErdem\bin\Debug\HesapMakinesiErdem.pdb
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.csproj.AssemblyReference.cache
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.Form1.resources
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.Properties.Resources.resources
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.csproj.GenerateResource.cache
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.csproj.CoreCompileInputs.cache
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.exe
+C:\Users\erdem\source\repos\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.pdb
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\bin\Debug\HesapMakinesiErdem.exe.config
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\bin\Debug\HesapMakinesiErdem.exe
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\bin\Debug\HesapMakinesiErdem.pdb
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.csproj.AssemblyReference.cache
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.Form1.resources
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.Properties.Resources.resources
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.csproj.GenerateResource.cache
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.exe
+C:\Users\Yunus Can\Desktop\HesapMakinesiErdem\obj\Debug\HesapMakinesiErdem.pdb

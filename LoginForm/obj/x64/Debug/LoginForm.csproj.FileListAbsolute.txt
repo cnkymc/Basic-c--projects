@@ -1,0 +1,13 @@
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\bin\x64\Debug\LoginForm.exe.config
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\bin\x64\Debug\LoginForm.exe
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\bin\x64\Debug\LoginForm.pdb
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.anasayfa.resources
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.ForgetPassword.resources
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.Form1.resources
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.register.resources
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.exe
+C:\Users\Yunus Can\source\repos\LoginForm\LoginForm\obj\x64\Debug\LoginForm.pdb
